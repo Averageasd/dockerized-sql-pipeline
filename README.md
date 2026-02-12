@@ -14,6 +14,8 @@ Docker: containers for pipeline and postgresql db.
 
 ## How to run:
 Step 1: Run uv sync
+</br>
 Step 2: Run docker-compose.yml to create database and pgadmin
+</br>
 Step 3: Run run-taxi-pipeline.sh to run data pipeline that writes data into the database
 
